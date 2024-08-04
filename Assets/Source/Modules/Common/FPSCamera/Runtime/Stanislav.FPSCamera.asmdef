@@ -1,0 +1,14 @@
+{
+    "name": "Stanislav.FPSCamera",
+    "rootNamespace": "Stanislav.FPSCamera",
+    "references": [],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

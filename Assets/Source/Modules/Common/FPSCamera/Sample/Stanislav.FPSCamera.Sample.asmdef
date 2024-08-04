@@ -1,0 +1,17 @@
+{
+    "name": "Stanislav.FPSCamera.Sample",
+    "rootNamespace": "Stanislav.FPSCamera.Sample",
+    "references": [
+        "GUID:0f10fe5e075c126439aca6f4dddc60ca",
+        "GUID:0d51f9c5be874f018945e8563a7a375a"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

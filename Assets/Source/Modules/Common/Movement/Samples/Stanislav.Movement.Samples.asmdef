@@ -1,0 +1,16 @@
+{
+    "name": "Stanislav.Movement.Samples",
+    "rootNamespace": "",
+    "references": [
+        "GUID:d40fdd7e6e5d65f40860e0cb23e78540"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
